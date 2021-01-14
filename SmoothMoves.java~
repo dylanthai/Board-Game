@@ -1,0 +1,263 @@
+//Moving on a player smoothly on the screen
+
+import javax.swing.*;
+import java.awt.*;
+import java.awt.event.*;
+import java.io.*; 
+import java.util.Scanner;
+import java.awt.image.*;
+import javax.imageio.*;
+
+/*An Example demonstrating player movement using keylisteners to have smooth movement
+ * 
+ * @Author Mangat
+ */
+
+//This class is used to start the program and manage the windows
+class SmoothMoves { 
+  
+  public static void main(String[] args) { 
+    GameWindow game= new GameWindow();  
+  }
+  
+}
+
+//This class represents the game window
+class GameWindow extends JFrame { 
+  
+  //Window constructor
+  public GameWindow() { 
+    setTitle("Simple Game Loop Example");
+    //setSize(1280,1024);  // set the size of my window to 400 by 400 pixels
+    setResizable(true);  // set my window to allow the user to resize it
+    setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);  // set the window up to end the program when closed
+    getContentPane().add( new GamePanel());
+    pack(); //makes the frame fit the contents
+    setVisible(true);
+  }
+  
+  
+  
+// An inner class representing the panel on which the game takes place
+  static class GamePanel extends JPanel implements KeyListener{
+    
+    
+    Player player;
+    Map map;
+    
+    //constructor
+    public GamePanel() { 
+      setPreferredSize(new Dimension(1024,814));
+      addKeyListener(this);
+      setFocusable(true);
+      requestFocusInWindow();
+      
+      map = new Map(1024,814);
+      player = new Player();
+      player.x=15;
+      player.y=5;
+    }
+    
+    public void paintComponent(Graphics g) { 
+      super.paintComponent(g); //required to ensure the panel si correctly redrawn
+      //update the content
+      //draw the screen
+//      player.move(map.boxWidth, map.boxHeight);
+      map.drawMap(g);
+      player.draw(g);
+      //request a repaint
+      repaint();
+    }
+    
+    public void keyTyped(KeyEvent e) {      
+      
+    }
+    
+    public void keyPressed(KeyEvent e) {
+//      if(e.getKeyChar() == 'a'  && player.moveAgain){    //Good time to use a Switch statement
+//        System.out.println("left");
+//        player.xdirection=-1;
+//        player.moveAgain = false;
+//      }else if(e.getKeyChar() == 's' && player.moveAgain){
+//        System.out.println("down");
+//        player.ydirection=1;
+//        player.moveAgain = false;
+//
+//      } else if(e.getKeyChar() == 'd' && player.moveAgain){
+//        System.out.println("right");
+//        player.xdirection=1;
+//        player.moveAgain = false;
+//      } else if(e.getKeyChar() == 'w' && player.moveAgain){
+//        System.out.println("up");
+//        player.ydirection=-1;
+//        player.moveAgain = false;
+//      } else {
+//        player.xdirection=0;
+//        player.ydirection=0;
+//      }//note - would be better to make player class and pass in map, test movement in there
+    }
+    
+    
+    public void keyReleased(KeyEvent e) {      
+      if(e.getKeyChar() == 'a' ){    //Good time to use a Switch statement
+        System.out.println("left");
+        player.xdirection=-1;
+        player.ydirection=0;
+        player.move(map.boxWidth, map.boxHeight);
+//        player.moveAgain = true;
+      } else if(e.getKeyChar() == 's' ){
+        System.out.println("down");
+        player.xdirection=0;
+        player.ydirection=1;
+        player.move(map.boxWidth, map.boxHeight);
+//        player.moveAgain = true;
+      } else if(e.getKeyChar() == 'd' ){
+        System.out.println("right");
+        player.xdirection=1;
+        player.ydirection=0;
+        player.move(map.boxWidth, map.boxHeight);
+//        player.moveAgain = true;
+      } else if(e.getKeyChar() == 'w' ){
+        System.out.println("up");
+        player.xdirection=0;
+        player.ydirection=-1;
+        player.move(map.boxWidth, map.boxHeight);
+//        player.moveAgain = true;
+      }  //note - would be better to make player class and pass in map, test movement in there
+    }  
+    
+  }
+  
+}
+
+class Player { 
+  int x, y; 
+  int xdirection,ydirection;
+  boolean moveAgain = true;
+  BufferedImage ghost;
+  BufferedImage wizard;
+  BufferedImage unicorn;
+  BufferedImage dragon;
+  
+  
+  public Player() { 
+    loadSprites();
+    //int currentSprite=0;
+    this.x=500;
+    this.y=768/2;
+    this.xdirection=0;
+    this.ydirection=0;
+    this.moveAgain=true;
+  }
+  
+  public void loadSprites() { 
+    try {
+      ghost = ImageIO.read(new File("ghost.png"));
+      wizard = ImageIO.read(new File("wizard.png"));
+      unicorn = ImageIO.read(new File("unicorn.png"));
+      dragon = ImageIO.read(new File("dragon.png"));
+      
+    } catch(Exception e) { System.out.println("error loading sprite");};
+  }
+  
+  public void draw(Graphics g) { 
+    g.drawImage(ghost,x,y,null);
+    g.drawImage(wizard, x + 35, y,null);
+    g.drawImage(unicorn, x, y + 35, null);
+    g.drawImage(dragon,x + 35, y + 35, null);
+    
+  }
+  
+  public void move(int xd, int yd) {
+    this.x=this.x+this.xdirection * xd;
+    this.y=this.y+this.ydirection * yd;
+  }
+  
+//  public void move(int xd, int yd, int far) {
+//    for
+//    this.x=this.x+this.xdirection * xd;
+//    this.y=this.y+this.ydirection * yd;
+//  }
+  
+}
+  class Map { 
+    
+    int boxWidth, boxHeight;
+    int map[][]= { 
+      {0,0,0,0,0,0,0,0,0,0,0},
+      {0,1,1,1,1,1,1,1,1,1,0},
+      {0,1,1,1,1,1,1,1,1,1,0},
+      {0,1,1,1,1,1,1,1,1,1,0},
+      {0,1,1,1,1,1,1,1,1,1,0},
+      {0,1,1,1,1,1,1,1,1,1,0},
+      {0,1,1,1,1,1,1,1,1,1,0},
+      {0,1,1,1,1,1,1,1,1,1,0},
+      {0,1,1,1,1,1,1,1,1,1,0},
+      {0,1,1,1,1,1,1,1,1,1,0},
+      {0,0,0,0,0,0,0,0,0,0,0}};  //this can be loaded from a file
+    Tile worldMap[][];
+    Rectangle r[][];
+    
+    public Map(int xResolution,int yResolution) { 
+      boxWidth=xResolution/11; //The size of each square
+      boxHeight=yResolution/11;  //it would be best to choose a res that has a common divisor
+      createWorldMap();
+    }
+    
+    public void createWorldMap() { 
+      worldMap = new Tile[map.length][map[1].length];
+      Rectangle r[][] = new Rectangle[map.length][map[1].length];
+      for (int j=0;j<worldMap.length;j++){
+        for (int i=0;i<worldMap[1].length;i++) {
+          if (map[j][i]==0) {
+            worldMap[j][i]=new Tile(Color.BLACK,i*boxWidth, j*boxHeight,boxWidth,boxHeight, true);
+            r[j][i] = new Rectangle(i * boxWidth,j * boxHeight,boxWidth,boxHeight);
+          }else{
+            worldMap[j][i]=new Tile(Color.WHITE,i*boxWidth, j*boxHeight,boxWidth,boxHeight, false);
+            r[j][i] = new Rectangle (i * boxWidth,j * boxHeight,boxWidth,boxHeight);
+          }
+        }
+      }
+    }
+    
+    public void drawMap(Graphics g) { 
+      for (int j=1;j<map.length-1;j++){
+        for (int i=1;i<map[1].length-1;i++) {
+          worldMap[j][i].draw(g,i,j);
+        }
+      }
+      for (int j=0;j<map.length;j++){
+        for (int i=0;i<map[1].length;i++) {
+          if (worldMap[j][i].border){
+            worldMap[j][i].draw(g,i,j);
+          }
+        }
+      }
+    }
+  }
+  
+  class Tile { 
+    int xPosMap, yPosMap;
+    int width,height;
+    boolean border;
+    Color colour;
+    
+    public Tile(Color c, int x, int y, int w, int h, boolean b) { 
+      colour=c;
+      xPosMap=x;
+      yPosMap=y;
+      width=w;
+      height=h;
+      border=b;
+    }
+    
+    public void draw(Graphics g, int xScreen, int yScreen) { 
+      g.setColor(colour);
+      if (!border){
+        g.fillRect(xScreen*width, yScreen*height, width, height);
+      } else {
+        g.drawRect(xScreen*width, yScreen*height, width, height);  //-1 to see edges
+      }
+    }
+    
+  }

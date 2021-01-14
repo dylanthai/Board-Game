@@ -1,0 +1,281 @@
+14 Jan 2021 15:49:03 GMT: Log 'EclipseCompiler.txt' opened: 14 Jan 2021 15:49:03 GMT with name F:\ICS\FINAL PROJECT\Final\EclipseCompiler.txt
+14 Jan 2021 15:49:17 GMT: diagnostics = javax.tools.DiagnosticCollector@13ac211
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@c2d181
+fileObjects = [F:\ICS\FINAL PROJECT\Final\FantasyDestiny.java]
+14 Jan 2021 15:49:17 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@8ff059' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, F:\ICS\FINAL PROJECT\Final;C:\Users\dylan\Desktop\Java;C:\Users\dylan\Desktop\Programs\Dr Java.exe]
+14 Jan 2021 15:49:18 GMT: Compiler call returned
+14 Jan 2021 15:49:18 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13aa388
+14 Jan 2021 15:49:18 GMT:  Kind = WARNING
+14 Jan 2021 15:49:18 GMT: Name = F:\ICS\FINAL PROJECT\Final\FantasyDestiny.java LineNo = 127 ColNo = 28 Msg = 'The static field Player.inPlay should be accessed in a static way'
+14 Jan 2021 15:49:18 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ec418f
+14 Jan 2021 15:49:18 GMT:  Kind = WARNING
+14 Jan 2021 15:49:18 GMT: Name = F:\ICS\FINAL PROJECT\Final\FantasyDestiny.java LineNo = 214 ColNo = 63 Msg = 'The static field Player.lapsToWin should be accessed in a static way'
+14 Jan 2021 17:17:28 GMT: Log 'EclipseCompiler.txt' opened: 14 Jan 2021 17:17:28 GMT with name F:\ICS\Fantasy Destiny\Final\EclipseCompiler.txt
+14 Jan 2021 17:18:18 GMT: diagnostics = javax.tools.DiagnosticCollector@9d743b
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@199e7a2
+fileObjects = [F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java]
+14 Jan 2021 17:18:18 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@f2ffc3' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, F:\ICS\Fantasy Destiny\Final;C:\Users\dylan\Desktop\Java;C:\Users\dylan\Desktop\Programs\Dr Java.exe]
+14 Jan 2021 17:18:20 GMT: Compiler call returned
+14 Jan 2021 17:18:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b4e36e
+14 Jan 2021 17:18:20 GMT:  Kind = WARNING
+14 Jan 2021 17:18:20 GMT: Name = F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java LineNo = 127 ColNo = 28 Msg = 'The static field Player.inPlay should be accessed in a static way'
+14 Jan 2021 17:18:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5b2133
+14 Jan 2021 17:18:20 GMT:  Kind = WARNING
+14 Jan 2021 17:18:20 GMT: Name = F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java LineNo = 214 ColNo = 63 Msg = 'The static field Player.lapsToWin should be accessed in a static way'
+14 Jan 2021 17:20:06 GMT: Log 'EclipseCompiler.txt' opened: 14 Jan 2021 17:20:06 GMT with name F:\ICS\Fantasy Destiny\Final\EclipseCompiler.txt
+14 Jan 2021 17:20:14 GMT: diagnostics = javax.tools.DiagnosticCollector@d107f5
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@c6bc35
+fileObjects = [F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java]
+14 Jan 2021 17:20:14 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1ba4cb7' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, F:\ICS\Fantasy Destiny\Final;C:\Users\dylan\Desktop\Java;C:\Users\dylan\Desktop\Programs\Dr Java.exe]
+14 Jan 2021 17:20:15 GMT: Compiler call returned
+14 Jan 2021 17:20:15 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d129c3
+14 Jan 2021 17:20:15 GMT:  Kind = WARNING
+14 Jan 2021 17:20:15 GMT: Name = F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java LineNo = 127 ColNo = 28 Msg = 'The static field Player.inPlay should be accessed in a static way'
+14 Jan 2021 17:20:15 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a360ae
+14 Jan 2021 17:20:15 GMT:  Kind = WARNING
+14 Jan 2021 17:20:15 GMT: Name = F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java LineNo = 214 ColNo = 63 Msg = 'The static field Player.lapsToWin should be accessed in a static way'
+14 Jan 2021 17:21:46 GMT: diagnostics = javax.tools.DiagnosticCollector@f733a2
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@11c1301
+fileObjects = [F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java]
+14 Jan 2021 17:21:46 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1c33d20' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, F:\ICS\Fantasy Destiny\Final;C:\Users\dylan\Desktop\Java;C:\Users\dylan\Desktop\Programs\Dr Java.exe]
+14 Jan 2021 17:21:47 GMT: Compiler call returned
+14 Jan 2021 17:21:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f3d8e4
+14 Jan 2021 17:21:47 GMT:  Kind = WARNING
+14 Jan 2021 17:21:47 GMT: Name = F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java LineNo = 127 ColNo = 28 Msg = 'The static field Player.inPlay should be accessed in a static way'
+14 Jan 2021 17:21:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@12128d3
+14 Jan 2021 17:21:47 GMT:  Kind = WARNING
+14 Jan 2021 17:21:47 GMT: Name = F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java LineNo = 214 ColNo = 63 Msg = 'The static field Player.lapsToWin should be accessed in a static way'
+14 Jan 2021 22:16:15 GMT: Log 'EclipseCompiler.txt' opened: 14 Jan 2021 22:16:15 GMT with name F:\ICS\Fantasy Destiny\Final\EclipseCompiler.txt
+14 Jan 2021 22:16:24 GMT: diagnostics = javax.tools.DiagnosticCollector@1f1a785
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@d23211
+fileObjects = [F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java]
+14 Jan 2021 22:16:24 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@382b3' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, F:\ICS\Fantasy Destiny\Final;C:\Users\dylan\Desktop\Java;C:\Users\dylan\Desktop\Programs\Dr Java.exe]
+14 Jan 2021 22:16:25 GMT: Compiler call returned
+14 Jan 2021 22:16:25 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19dacac
+14 Jan 2021 22:16:25 GMT:  Kind = WARNING
+14 Jan 2021 22:16:25 GMT: Name = F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java LineNo = 127 ColNo = 28 Msg = 'The static field Player.inPlay should be accessed in a static way'
+14 Jan 2021 22:16:25 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1194912
+14 Jan 2021 22:16:25 GMT:  Kind = WARNING
+14 Jan 2021 22:16:25 GMT: Name = F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java LineNo = 214 ColNo = 63 Msg = 'The static field Player.lapsToWin should be accessed in a static way'
+14 Jan 2021 22:16:38 GMT: diagnostics = javax.tools.DiagnosticCollector@59af41
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@f6e5f0
+fileObjects = [F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java]
+14 Jan 2021 22:16:38 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@f08c0d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, F:\ICS\Fantasy Destiny\Final;C:\Users\dylan\Desktop\Java;C:\Users\dylan\Desktop\Programs\Dr Java.exe]
+14 Jan 2021 22:16:38 GMT: Compiler call returned
+14 Jan 2021 22:16:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@119f5ca
+14 Jan 2021 22:16:38 GMT:  Kind = WARNING
+14 Jan 2021 22:16:38 GMT: Name = F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java LineNo = 127 ColNo = 28 Msg = 'The static field Player.inPlay should be accessed in a static way'
+14 Jan 2021 22:16:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f5c8b4
+14 Jan 2021 22:16:38 GMT:  Kind = WARNING
+14 Jan 2021 22:16:38 GMT: Name = F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java LineNo = 214 ColNo = 63 Msg = 'The static field Player.lapsToWin should be accessed in a static way'
+14 Jan 2021 22:16:58 GMT: diagnostics = javax.tools.DiagnosticCollector@23298f
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@10d6ed3
+fileObjects = [F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java]
+14 Jan 2021 22:16:58 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@f8d91e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, F:\ICS\Fantasy Destiny\Final;C:\Users\dylan\Desktop\Java;C:\Users\dylan\Desktop\Programs\Dr Java.exe]
+14 Jan 2021 22:16:58 GMT: Compiler call returned
+14 Jan 2021 22:16:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a3d8cc
+14 Jan 2021 22:16:58 GMT:  Kind = WARNING
+14 Jan 2021 22:16:58 GMT: Name = F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java LineNo = 127 ColNo = 28 Msg = 'The static field Player.inPlay should be accessed in a static way'
+14 Jan 2021 22:16:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ef86c4
+14 Jan 2021 22:16:58 GMT:  Kind = WARNING
+14 Jan 2021 22:16:58 GMT: Name = F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java LineNo = 214 ColNo = 63 Msg = 'The static field Player.lapsToWin should be accessed in a static way'
+14 Jan 2021 22:17:09 GMT: diagnostics = javax.tools.DiagnosticCollector@15d3622
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@15ade5f
+fileObjects = [F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java]
+14 Jan 2021 22:17:09 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1566b3' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, F:\ICS\Fantasy Destiny\Final;C:\Users\dylan\Desktop\Java;C:\Users\dylan\Desktop\Programs\Dr Java.exe]
+14 Jan 2021 22:17:10 GMT: Compiler call returned
+14 Jan 2021 22:17:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3a72ef
+14 Jan 2021 22:17:10 GMT:  Kind = WARNING
+14 Jan 2021 22:17:10 GMT: Name = F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java LineNo = 126 ColNo = 28 Msg = 'The static field Player.inPlay should be accessed in a static way'
+14 Jan 2021 22:17:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a48be1
+14 Jan 2021 22:17:10 GMT:  Kind = WARNING
+14 Jan 2021 22:17:10 GMT: Name = F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java LineNo = 213 ColNo = 63 Msg = 'The static field Player.lapsToWin should be accessed in a static way'
+14 Jan 2021 22:19:36 GMT: diagnostics = javax.tools.DiagnosticCollector@a7516d
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@de9fa2
+fileObjects = [F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java]
+14 Jan 2021 22:19:36 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@11bc540' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, F:\ICS\Fantasy Destiny\Final;C:\Users\dylan\Desktop\Java;C:\Users\dylan\Desktop\Programs\Dr Java.exe]
+14 Jan 2021 22:19:36 GMT: Compiler call returned
+14 Jan 2021 22:19:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ad949d
+14 Jan 2021 22:19:36 GMT:  Kind = WARNING
+14 Jan 2021 22:19:36 GMT: Name = F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java LineNo = 126 ColNo = 28 Msg = 'The static field Player.inPlay should be accessed in a static way'
+14 Jan 2021 22:19:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17ca9fd
+14 Jan 2021 22:19:36 GMT:  Kind = WARNING
+14 Jan 2021 22:19:36 GMT: Name = F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java LineNo = 215 ColNo = 63 Msg = 'The static field Player.lapsToWin should be accessed in a static way'
+14 Jan 2021 22:20:49 GMT: diagnostics = javax.tools.DiagnosticCollector@d77cac
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@68eb26
+fileObjects = [F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java]
+14 Jan 2021 22:20:49 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@f9ff3c' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, F:\ICS\Fantasy Destiny\Final;C:\Users\dylan\Desktop\Java;C:\Users\dylan\Desktop\Programs\Dr Java.exe]
+14 Jan 2021 22:20:49 GMT: Compiler call returned
+14 Jan 2021 22:20:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d77538
+14 Jan 2021 22:20:49 GMT:  Kind = WARNING
+14 Jan 2021 22:20:49 GMT: Name = F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java LineNo = 126 ColNo = 28 Msg = 'The static field Player.inPlay should be accessed in a static way'
+14 Jan 2021 22:20:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@12c1529
+14 Jan 2021 22:20:49 GMT:  Kind = WARNING
+14 Jan 2021 22:20:49 GMT: Name = F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java LineNo = 215 ColNo = 63 Msg = 'The static field Player.lapsToWin should be accessed in a static way'
+14 Jan 2021 22:27:52 GMT: diagnostics = javax.tools.DiagnosticCollector@28fc20
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@ecee08
+fileObjects = [F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java]
+14 Jan 2021 22:27:52 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1b929c' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, F:\ICS\Fantasy Destiny\Final;C:\Users\dylan\Desktop\Java;C:\Users\dylan\Desktop\Programs\Dr Java.exe]
+14 Jan 2021 22:27:53 GMT: Compiler call returned
+14 Jan 2021 22:27:53 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@184ff33
+14 Jan 2021 22:27:53 GMT:  Kind = ERROR
+14 Jan 2021 22:27:53 GMT: Name = F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java LineNo = 362 ColNo = 17 Msg = 'Syntax error on token "-", ; expected'
+14 Jan 2021 22:27:53 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@dcbb3d
+14 Jan 2021 22:27:53 GMT:  Kind = ERROR
+14 Jan 2021 22:27:53 GMT: Name = F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java LineNo = 362 ColNo = 18 Msg = 'Return type for the method is missing'
+14 Jan 2021 22:27:53 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@16f3f1f
+14 Jan 2021 22:27:53 GMT:  Kind = WARNING
+14 Jan 2021 22:27:53 GMT: Name = F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java LineNo = 126 ColNo = 28 Msg = 'The static field Player.inPlay should be accessed in a static way'
+14 Jan 2021 22:27:53 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@649af4
+14 Jan 2021 22:27:53 GMT:  Kind = WARNING
+14 Jan 2021 22:27:53 GMT: Name = F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java LineNo = 215 ColNo = 63 Msg = 'The static field Player.lapsToWin should be accessed in a static way'
+14 Jan 2021 22:28:13 GMT: diagnostics = javax.tools.DiagnosticCollector@70a8ab
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@11bf30d
+fileObjects = [F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java]
+14 Jan 2021 22:28:13 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1897a34' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, F:\ICS\Fantasy Destiny\Final;C:\Users\dylan\Desktop\Java;C:\Users\dylan\Desktop\Programs\Dr Java.exe]
+14 Jan 2021 22:28:13 GMT: Compiler call returned
+14 Jan 2021 22:28:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1619aee
+14 Jan 2021 22:28:13 GMT:  Kind = WARNING
+14 Jan 2021 22:28:13 GMT: Name = F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java LineNo = 126 ColNo = 28 Msg = 'The static field Player.inPlay should be accessed in a static way'
+14 Jan 2021 22:28:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b7bd11
+14 Jan 2021 22:28:13 GMT:  Kind = WARNING
+14 Jan 2021 22:28:13 GMT: Name = F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java LineNo = 215 ColNo = 63 Msg = 'The static field Player.lapsToWin should be accessed in a static way'
+14 Jan 2021 22:28:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d7d605
+14 Jan 2021 22:28:13 GMT:  Kind = ERROR
+14 Jan 2021 22:28:13 GMT: Name = F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java LineNo = 362 ColNo = 14 Msg = 'This method must return a result of type int'
+14 Jan 2021 22:28:24 GMT: diagnostics = javax.tools.DiagnosticCollector@8aecf
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@66d9
+fileObjects = [F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java]
+14 Jan 2021 22:28:24 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1a584b8' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, F:\ICS\Fantasy Destiny\Final;C:\Users\dylan\Desktop\Java;C:\Users\dylan\Desktop\Programs\Dr Java.exe]
+14 Jan 2021 22:28:24 GMT: Compiler call returned
+14 Jan 2021 22:28:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1df024b
+14 Jan 2021 22:28:24 GMT:  Kind = WARNING
+14 Jan 2021 22:28:24 GMT: Name = F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java LineNo = 126 ColNo = 28 Msg = 'The static field Player.inPlay should be accessed in a static way'
+14 Jan 2021 22:28:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@fe585a
+14 Jan 2021 22:28:24 GMT:  Kind = WARNING
+14 Jan 2021 22:28:24 GMT: Name = F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java LineNo = 215 ColNo = 63 Msg = 'The static field Player.lapsToWin should be accessed in a static way'
+14 Jan 2021 22:28:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1cac0d2
+14 Jan 2021 22:28:24 GMT:  Kind = ERROR
+14 Jan 2021 22:28:24 GMT: Name = F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java LineNo = 362 ColNo = 14 Msg = 'This method must return a result of type int'
+14 Jan 2021 22:28:43 GMT: diagnostics = javax.tools.DiagnosticCollector@13331cf
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@ed719
+fileObjects = [F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java]
+14 Jan 2021 22:28:43 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1007659' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, F:\ICS\Fantasy Destiny\Final;C:\Users\dylan\Desktop\Java;C:\Users\dylan\Desktop\Programs\Dr Java.exe]
+14 Jan 2021 22:28:43 GMT: Compiler call returned
+14 Jan 2021 22:28:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ca6e3f
+14 Jan 2021 22:28:43 GMT:  Kind = WARNING
+14 Jan 2021 22:28:43 GMT: Name = F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java LineNo = 126 ColNo = 28 Msg = 'The static field Player.inPlay should be accessed in a static way'
+14 Jan 2021 22:28:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f2314c
+14 Jan 2021 22:28:43 GMT:  Kind = WARNING
+14 Jan 2021 22:28:43 GMT: Name = F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java LineNo = 215 ColNo = 63 Msg = 'The static field Player.lapsToWin should be accessed in a static way'
+14 Jan 2021 22:28:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e08b13
+14 Jan 2021 22:28:43 GMT:  Kind = ERROR
+14 Jan 2021 22:28:43 GMT: Name = F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java LineNo = 363 ColNo = 9 Msg = 'Cannot use this in a static context'
+14 Jan 2021 22:28:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6d4691
+14 Jan 2021 22:28:43 GMT:  Kind = ERROR
+14 Jan 2021 22:28:43 GMT: Name = F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java LineNo = 364 ColNo = 20 Msg = 'Cannot use this in a static context'
+14 Jan 2021 22:28:54 GMT: diagnostics = javax.tools.DiagnosticCollector@81b54e
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@acaa62
+fileObjects = [F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java]
+14 Jan 2021 22:28:54 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1e434df' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, F:\ICS\Fantasy Destiny\Final;C:\Users\dylan\Desktop\Java;C:\Users\dylan\Desktop\Programs\Dr Java.exe]
+14 Jan 2021 22:28:54 GMT: Compiler call returned
+14 Jan 2021 22:28:54 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a7bd11
+14 Jan 2021 22:28:54 GMT:  Kind = WARNING
+14 Jan 2021 22:28:54 GMT: Name = F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java LineNo = 126 ColNo = 28 Msg = 'The static field Player.inPlay should be accessed in a static way'
+14 Jan 2021 22:28:54 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e7e9fa
+14 Jan 2021 22:28:54 GMT:  Kind = WARNING
+14 Jan 2021 22:28:54 GMT: Name = F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java LineNo = 215 ColNo = 63 Msg = 'The static field Player.lapsToWin should be accessed in a static way'
+14 Jan 2021 22:28:54 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@83cfd7
+14 Jan 2021 22:28:54 GMT:  Kind = ERROR
+14 Jan 2021 22:28:54 GMT: Name = F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java LineNo = 362 ColNo = 14 Msg = 'This method must return a result of type int'
+14 Jan 2021 22:29:33 GMT: diagnostics = javax.tools.DiagnosticCollector@191e684
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1cee831
+fileObjects = [F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java]
+14 Jan 2021 22:29:33 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@12a8b90' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, F:\ICS\Fantasy Destiny\Final;C:\Users\dylan\Desktop\Java;C:\Users\dylan\Desktop\Programs\Dr Java.exe]
+14 Jan 2021 22:29:33 GMT: Compiler call returned
+14 Jan 2021 22:29:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19bf38a
+14 Jan 2021 22:29:33 GMT:  Kind = ERROR
+14 Jan 2021 22:29:33 GMT: Name = F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java LineNo = 366 ColNo = 14 Msg = 'Syntax error, insert ". class" to complete Expression'
+14 Jan 2021 22:29:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11b0fa0
+14 Jan 2021 22:29:33 GMT:  Kind = WARNING
+14 Jan 2021 22:29:33 GMT: Name = F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java LineNo = 126 ColNo = 28 Msg = 'The static field Player.inPlay should be accessed in a static way'
+14 Jan 2021 22:29:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c80f8e
+14 Jan 2021 22:29:33 GMT:  Kind = WARNING
+14 Jan 2021 22:29:33 GMT: Name = F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java LineNo = 215 ColNo = 63 Msg = 'The static field Player.lapsToWin should be accessed in a static way'
+14 Jan 2021 22:29:45 GMT: diagnostics = javax.tools.DiagnosticCollector@f99109
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@20a965
+fileObjects = [F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java]
+14 Jan 2021 22:29:45 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@13fba0d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, F:\ICS\Fantasy Destiny\Final;C:\Users\dylan\Desktop\Java;C:\Users\dylan\Desktop\Programs\Dr Java.exe]
+14 Jan 2021 22:29:45 GMT: Compiler call returned
+14 Jan 2021 22:29:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@bd714e
+14 Jan 2021 22:29:45 GMT:  Kind = WARNING
+14 Jan 2021 22:29:45 GMT: Name = F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java LineNo = 126 ColNo = 28 Msg = 'The static field Player.inPlay should be accessed in a static way'
+14 Jan 2021 22:29:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@138f19d
+14 Jan 2021 22:29:45 GMT:  Kind = WARNING
+14 Jan 2021 22:29:45 GMT: Name = F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java LineNo = 215 ColNo = 63 Msg = 'The static field Player.lapsToWin should be accessed in a static way'
+14 Jan 2021 22:29:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@193cb61
+14 Jan 2021 22:29:45 GMT:  Kind = ERROR
+14 Jan 2021 22:29:45 GMT: Name = F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java LineNo = 366 ColNo = 14 Msg = 'Type mismatch: cannot convert from boolean to int'
+14 Jan 2021 22:30:41 GMT: diagnostics = javax.tools.DiagnosticCollector@1c07ef1
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@19c3ccd
+fileObjects = [F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java]
+14 Jan 2021 22:30:41 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7dac21' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, F:\ICS\Fantasy Destiny\Final;C:\Users\dylan\Desktop\Java;C:\Users\dylan\Desktop\Programs\Dr Java.exe]
+14 Jan 2021 22:30:42 GMT: Compiler call returned
+14 Jan 2021 22:30:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d7d2
+14 Jan 2021 22:30:42 GMT:  Kind = WARNING
+14 Jan 2021 22:30:42 GMT: Name = F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java LineNo = 126 ColNo = 28 Msg = 'The static field Player.inPlay should be accessed in a static way'
+14 Jan 2021 22:30:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d817f0
+14 Jan 2021 22:30:42 GMT:  Kind = WARNING
+14 Jan 2021 22:30:42 GMT: Name = F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java LineNo = 215 ColNo = 63 Msg = 'The static field Player.lapsToWin should be accessed in a static way'
+14 Jan 2021 22:31:32 GMT: diagnostics = javax.tools.DiagnosticCollector@f407f3
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@154c560
+fileObjects = [F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java]
+14 Jan 2021 22:31:32 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@f054a' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, F:\ICS\Fantasy Destiny\Final;C:\Users\dylan\Desktop\Java;C:\Users\dylan\Desktop\Programs\Dr Java.exe]
+14 Jan 2021 22:31:32 GMT: Compiler call returned
+14 Jan 2021 22:31:32 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b33779
+14 Jan 2021 22:31:32 GMT:  Kind = WARNING
+14 Jan 2021 22:31:32 GMT: Name = F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java LineNo = 126 ColNo = 28 Msg = 'The static field Player.inPlay should be accessed in a static way'
+14 Jan 2021 22:31:32 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13e2039
+14 Jan 2021 22:31:32 GMT:  Kind = ERROR
+14 Jan 2021 22:31:32 GMT: Name = F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java LineNo = 177 ColNo = 33 Msg = 'The method getWinner() is undefined for the type GameWindow.GamePanel'
+14 Jan 2021 22:31:32 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@46a8e6
+14 Jan 2021 22:31:32 GMT:  Kind = WARNING
+14 Jan 2021 22:31:32 GMT: Name = F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java LineNo = 215 ColNo = 63 Msg = 'The static field Player.lapsToWin should be accessed in a static way'
+14 Jan 2021 22:32:33 GMT: diagnostics = javax.tools.DiagnosticCollector@5bd1a0
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@683a5
+fileObjects = [F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java]
+14 Jan 2021 22:32:33 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@14ca798' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, F:\ICS\Fantasy Destiny\Final;C:\Users\dylan\Desktop\Java;C:\Users\dylan\Desktop\Programs\Dr Java.exe]
+14 Jan 2021 22:32:33 GMT: Compiler call returned
+14 Jan 2021 22:32:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d85ce6
+14 Jan 2021 22:32:33 GMT:  Kind = ERROR
+14 Jan 2021 22:32:33 GMT: Name = F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java LineNo = 367 ColNo = 3 Msg = 'Syntax error on token "}", delete this token'
+14 Jan 2021 22:32:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b2acff
+14 Jan 2021 22:32:33 GMT:  Kind = WARNING
+14 Jan 2021 22:32:33 GMT: Name = F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java LineNo = 126 ColNo = 28 Msg = 'The static field Player.inPlay should be accessed in a static way'
+14 Jan 2021 22:32:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ed817b
+14 Jan 2021 22:32:33 GMT:  Kind = WARNING
+14 Jan 2021 22:32:33 GMT: Name = F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java LineNo = 213 ColNo = 63 Msg = 'The static field Player.lapsToWin should be accessed in a static way'
+14 Jan 2021 22:32:37 GMT: diagnostics = javax.tools.DiagnosticCollector@e4a135
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@12d0bb2
+fileObjects = [F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java]
+14 Jan 2021 22:32:37 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@11075de' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, F:\ICS\Fantasy Destiny\Final;C:\Users\dylan\Desktop\Java;C:\Users\dylan\Desktop\Programs\Dr Java.exe]
+14 Jan 2021 22:32:38 GMT: Compiler call returned
+14 Jan 2021 22:32:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b37d99
+14 Jan 2021 22:32:38 GMT:  Kind = WARNING
+14 Jan 2021 22:32:38 GMT: Name = F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java LineNo = 126 ColNo = 28 Msg = 'The static field Player.inPlay should be accessed in a static way'
+14 Jan 2021 22:32:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18a8bb2
+14 Jan 2021 22:32:38 GMT:  Kind = WARNING
+14 Jan 2021 22:32:38 GMT: Name = F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java LineNo = 213 ColNo = 63 Msg = 'The static field Player.lapsToWin should be accessed in a static way'
+14 Jan 2021 22:35:25 GMT: diagnostics = javax.tools.DiagnosticCollector@64bf72
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1ddc3bd
+fileObjects = [F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java]
+14 Jan 2021 22:35:25 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@ea68ca' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, F:\ICS\Fantasy Destiny\Final;C:\Users\dylan\Desktop\Java;C:\Users\dylan\Desktop\Programs\Dr Java.exe]
+14 Jan 2021 22:35:26 GMT: Compiler call returned
+14 Jan 2021 22:35:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@155a727
+14 Jan 2021 22:35:26 GMT:  Kind = WARNING
+14 Jan 2021 22:35:26 GMT: Name = F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java LineNo = 126 ColNo = 28 Msg = 'The static field Player.inPlay should be accessed in a static way'
+14 Jan 2021 22:35:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@10051e5
+14 Jan 2021 22:35:26 GMT:  Kind = WARNING
+14 Jan 2021 22:35:26 GMT: Name = F:\ICS\Fantasy Destiny\Final\FantasyDestiny.java LineNo = 213 ColNo = 63 Msg = 'The static field Player.lapsToWin should be accessed in a static way'
+14 Jan 2021 22:37:55 GMT: Log 'EclipseCompiler.txt' opened: 14 Jan 2021 22:37:55 GMT with name F:\ICS\Fantasy Destiny\Final\EclipseCompiler.txt
+14 Jan 2021 22:39:05 GMT: Log 'EclipseCompiler.txt' opened: 14 Jan 2021 22:39:05 GMT with name F:\ICS\Fantasy Destiny\Final\EclipseCompiler.txt

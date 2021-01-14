@@ -1,0 +1,7 @@
+Welcome!
+
+Click roll dice when its your turn to go to move around the board.
+Your objective it to complete three laps around the board as quick as possible (before your opponents).
+Pick up items by landing on a tile that contains an item to help you get a head or slow down your opponents by blocking them from rolling on their next turn.
+
+Good Luck and have fun!
